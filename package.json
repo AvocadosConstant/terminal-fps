@@ -1,0 +1,26 @@
+{
+  "name": "terminal-fps",
+  "version": "1.0.0",
+  "description": "Experiments with ray-tracing to make a first person game in terminal using node.js with blessed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvocadosConstant/terminal-fps.git"
+  },
+  "keywords": [
+    "dank",
+    "memes"
+  ],
+  "author": "Tim Hung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvocadosConstant/terminal-fps/issues"
+  },
+  "homepage": "https://github.com/AvocadosConstant/terminal-fps#readme",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
